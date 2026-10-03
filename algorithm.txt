@@ -1,0 +1,47 @@
+ALGORITHM – INSURANCE PURCHASE PREDICTION
+
+Step 1: Start.
+
+Step 2: Import the required Python libraries for data handling, visualization,
+machine learning, and model evaluation.
+
+Step 3: Load the insurance/customer dataset using pandas.
+
+Step 4: Select Age and EstimatedSalary as the input features and Purchased as
+the target variable.
+
+Step 5: Divide the dataset into training and testing data using an 80:20 split.
+
+Step 6: Apply feature scaling to the training and testing features for the
+algorithms that require scaled input.
+
+Step 7: Create the following classification models:
+        a) Logistic Regression
+        b) K-Nearest Neighbors (KNN)
+        c) Support Vector Machine (SVM)
+        d) Decision Tree
+        e) Random Forest
+
+Step 8: Train each model using the training dataset.
+
+Step 9: Predict the target values for the testing dataset.
+
+Step 10: Calculate accuracy, precision, recall, and F1-score for each model.
+
+Step 11: Compare the evaluation metrics of all five algorithms.
+
+Step 12: Plot a graph comparing the accuracy of the algorithms.
+
+Step 13: Plot Age against Estimated Salary and indicate whether insurance was
+purchased.
+
+Step 14: Select the model having the highest test accuracy for the required
+test cases.
+
+Step 15: Give predictions for the specified age and salary combinations.
+
+Step 16: Generate and display the confusion matrix for the selected model.
+
+Step 17: Save the comparison table and required predictions.
+
+Step 18: Stop.
