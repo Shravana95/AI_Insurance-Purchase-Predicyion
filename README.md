@@ -4,7 +4,7 @@ PROJECT 1 – INSURANCE PURCHASE PREDICTION
 Files:
 1. insurance_classification.py – main Python program
 2. algorithm.txt – exam/report algorithm
-3. notes.txt – explanation notes
+
 
 Before running:
 1. Install pandas, numpy, matplotlib and scikit-learn if needed.
